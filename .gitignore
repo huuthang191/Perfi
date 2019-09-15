@@ -1,0 +1,8 @@
+node_modules/
+ios/
+.expo/
+.expo-shared/
+.idea/
+package-lock.json
+npm-debug.*
+
