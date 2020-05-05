@@ -1,14 +1,7 @@
-# Perfi
-### Open-source personal finance management app
-
-[![GooglePlay](https://canmorealberta.com/dist/img/google_appstore_256x256.png)](https://play.google.com/store/apps/details?id=com.apikodev.perfi&hl=uz)
-[![AppStore](http://www.mutuabcc.it/wp-content/uploads/2017/06/256x256-ap.png)](https://itunes.apple.com/us/app/perfi/id1437633955?mt=8&ign-mpt=uo%3D4)
+# react-native-demo
+### Personal finance management app
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
-
-## Available Scripts
-
-[![Join the chat at https://gitter.im/JSSolutions/Perfi](https://badges.gitter.im/JSSolutions/Perfi.svg)](https://gitter.im/JSSolutions/Perfi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### `npm start`
 
@@ -50,9 +43,6 @@ This will start the process of "ejecting" from Create React Native App's build s
 **Warning:** Running eject is a permanent action (aside from whatever version control system you use). An ejected app will require you to have an [Xcode and/or Android Studio environment](https://facebook.github.io/react-native/docs/getting-started.html) set up.
 
 -------------
-
-
-#### Made by Apiko - [Custom Software Development Company](https://apiko.com/)
 
 
 
