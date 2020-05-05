@@ -42,8 +42,4 @@ This will start the process of "ejecting" from Create React Native App's build s
 
 **Warning:** Running eject is a permanent action (aside from whatever version control system you use). An ejected app will require you to have an [Xcode and/or Android Studio environment](https://facebook.github.io/react-native/docs/getting-started.html) set up.
 
--------------
-
-
-
-![Custom Software Development Company](https://apiko.com/img/logo-150h.jpg)
+------------
